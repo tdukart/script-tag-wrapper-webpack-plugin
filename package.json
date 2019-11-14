@@ -1,7 +1,7 @@
 {
   "name": "script-tag-wrapper-webpack-plugin",
   "version": "0.0.1",
-  "description": "",
+  "description": "Webpack plugin to emit JS files as .txt with <script> tags.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "browser": "dist/index.umd.js",
