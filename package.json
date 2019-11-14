@@ -1,0 +1,31 @@
+{
+  "name": "script-tag-wrapper-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.umd.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "author": "Todd Dukart <todd.dukart@globe.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "rollup": "^1.27.0",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "dependencies": {
+    "webpack-sources": "^1.4.3"
+  },
+  "files": [
+    "dist"
+  ]
+}
