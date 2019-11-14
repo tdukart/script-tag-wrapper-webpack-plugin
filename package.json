@@ -1,5 +1,5 @@
 {
-  "name": "script-tag-wrapper-webpack-plugin",
+  "name": "@tdukart/script-tag-wrapper-webpack-plugin",
   "version": "0.0.1",
   "description": "Webpack plugin to emit JS files as .txt with <script> tags.",
   "main": "dist/index.cjs.js",
