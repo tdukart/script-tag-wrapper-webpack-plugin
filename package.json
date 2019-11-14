@@ -9,7 +9,7 @@
     "build": "rollup -c",
     "dev": "rollup -c -w"
   },
-  "author": "Todd Dukart <todd.dukart@globe.com>",
+  "author": "Todd Dukart <tdukart@mechninja.com>",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@babel/core": "^7.7.2",
