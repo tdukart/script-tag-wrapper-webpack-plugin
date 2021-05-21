@@ -23,7 +23,7 @@
     "rollup-plugin-node-resolve": "^5.2.0"
   },
   "dependencies": {
-    "webpack-sources": "^1.4.3"
+    "webpack-sources": "^2.2.0"
   },
   "files": [
     "dist"
